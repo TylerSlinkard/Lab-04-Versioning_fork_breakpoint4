@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm *Tyler Slinkard*
 ##  About Me
-_I am a Multi diciplunary cyber security student in my Sophmore year at UTSA, I work in the tech industry and have work in a variety of teach positions for many 12+ years. I take care of my 11 pets and work a full time job._
+_I am a multidisciplinary cybersecurity student in my sophomore year at the University of Texas at San Antonio. I work full-time in the tech industry and have held a variety of tech positions for over 12 years. I also take care of my 11 pets._
 ## ⚒️ Skills
 <!--![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
